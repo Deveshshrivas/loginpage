@@ -95,3 +95,13 @@ jspm_packages/
 
 # Nested directories to ignore
 New folder/
+.
+.github
+.gitlab
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
